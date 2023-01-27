@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Hits](https://hits.sh/github.com/motobi5.svg)](https://hits.sh/github.com/motobi5/)
+
 <!--
 **motobi5/motobi5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
